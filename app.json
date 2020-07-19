@@ -1,0 +1,11 @@
+{
+  "name": "simsimipkapi",
+  "version": "1.0.0",
+  "description": "MIVT",
+  "main": "bot.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
